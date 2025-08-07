@@ -1,0 +1,14 @@
+D:\PROGRAMACION AVANZADA\PAWCP2\PAWCP2.Core\bin\Debug\net8.0\PAWCP2.Core.deps.json
+D:\PROGRAMACION AVANZADA\PAWCP2\PAWCP2.Core\bin\Debug\net8.0\PAWCP2.Core.dll
+D:\PROGRAMACION AVANZADA\PAWCP2\PAWCP2.Core\bin\Debug\net8.0\PAWCP2.Core.pdb
+D:\PROGRAMACION AVANZADA\PAWCP2\PAWCP2.Core\obj\Debug\net8.0\PAWCP2.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACION AVANZADA\PAWCP2\PAWCP2.Core\obj\Debug\net8.0\PAWCP2.Core.AssemblyInfoInputs.cache
+D:\PROGRAMACION AVANZADA\PAWCP2\PAWCP2.Core\obj\Debug\net8.0\PAWCP2.Core.AssemblyInfo.cs
+D:\PROGRAMACION AVANZADA\PAWCP2\PAWCP2.Core\obj\Debug\net8.0\PAWCP2.Core.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION AVANZADA\PAWCP2\PAWCP2.Core\obj\Debug\net8.0\PAWCP2.Core.dll
+D:\PROGRAMACION AVANZADA\PAWCP2\PAWCP2.Core\obj\Debug\net8.0\refint\PAWCP2.Core.dll
+D:\PROGRAMACION AVANZADA\PAWCP2\PAWCP2.Core\obj\Debug\net8.0\PAWCP2.Core.pdb
+D:\PROGRAMACION AVANZADA\PAWCP2\PAWCP2.Core\obj\Debug\net8.0\ref\PAWCP2.Core.dll
+D:\PROGRAMACION AVANZADA\PAWCP2\PAWCP2.Core\bin\Debug\net8.0\PAWCP2.Core.runtimeconfig.json
+D:\PROGRAMACION AVANZADA\PAWCP2\PAWCP2.Core\obj\Debug\net8.0\PAWCP2.Core.csproj.AssemblyReference.cache
+D:\PROGRAMACION AVANZADA\PAWCP2\PAWCP2.Core\obj\Debug\net8.0\PAWCP2.Core.genruntimeconfig.cache
